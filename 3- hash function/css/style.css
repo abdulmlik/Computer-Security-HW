@@ -1,0 +1,30 @@
+.navbar {
+  padding: 15px 30px;;
+  height: 100px;
+}
+.form_input{
+background: #eee;  
+padding: 15px;
+}
+._form-inline
+{
+  display:flex;
+}
+._footer{
+
+  padding: 15px 30px;
+  height: 60px;
+  color: aliceblue;
+}
+._valid{
+	color: #212529;
+}
+._invalid{
+	color: #dc3545;
+}
+i.fa-check{
+	color:chartreuse;
+}
+i.fa-times{
+	color: #ff0038;/*#ff0800*/
+}
